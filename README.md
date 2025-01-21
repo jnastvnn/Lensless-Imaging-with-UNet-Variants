@@ -1,6 +1,6 @@
 # Lensless Imaging with UNet Variants
 
-For a more detailed explanation, see the bachelor thesis:[[link](https://trepo.tuni.fi/bitstream/handle/10024/162186/ToivonenJoonas.pdf?sequence=2&isAllowed=y)] 
+For a more detailed explanation, see the bachelor thesis:[link](https://trepo.tuni.fi/bitstream/handle/10024/162186/ToivonenJoonas.pdf?sequence=2&isAllowed=y)
 
 ## Introduction
 Lensless imaging is an emerging technology that directly records light’s diffraction patterns without traditional lenses. Algorithms are then used to reconstruct the original image from these patterns. This approach presents a compelling alternative to traditional microscopy, addressing
